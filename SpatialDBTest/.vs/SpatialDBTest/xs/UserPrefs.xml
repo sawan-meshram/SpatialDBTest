@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A06FFF21-8971-420F-8F7A-347D2A2ACA1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../HazardZoneServiceAPI/HazardZoneServiceAPI/Models/HazardZoneController.cs">
+    <Files>
+      <File FileName="../../HazardZoneServiceAPI/HazardZoneServiceAPI/Models/InitRecordModel.cs" Line="31" Column="13" />
+      <File FileName="../../HazardZoneServiceAPI/HazardZoneServiceAPI/Web.config" Line="18" Column="38" />
+      <File FileName="../../HazardZoneServiceAPI/HazardZoneServiceAPI/Models/HazardZoneController.cs" Line="9" Column="17" />
+      <File FileName="../../HazardZoneServiceAPI/HazardZoneServiceAPI/Util/DBConnection.cs" Line="3" Column="1" />
+      <File FileName="SpatialDBTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HazardZoneServiceAPI" expanded="True">
+            <Node name="HazardZoneServiceAPI" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True">
+                <Node name="System.Runtime.CompilerServices.Unsafe" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Util" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="SpatialDBTest" expanded="True">
+            <Node name="SpatialDBTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SpatialDBTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
